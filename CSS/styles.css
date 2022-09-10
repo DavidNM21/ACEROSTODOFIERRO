@@ -135,9 +135,8 @@ ul{font-size: 8;}
 Button.btn{background-color: #39383b;
 border-color: #ffde59;
 color:#ffde59;
-font-size: 200%;
-width: 80%;
-height: 7rem;
+font-size: 67%;
+width: 100%;
 }
 
 Button.btn:hover{background-color: #39383b;
@@ -159,7 +158,7 @@ text-align: left;
 padding-left: .4rem;
 padding-top: 0;
 padding-bottom: 0;
-font-size: xxx-large;
+font-size: 75%;
 border-color: grey;
 border-style: dotted;
 font-weight: 300;}
@@ -171,14 +170,14 @@ padding-left: .5rem;
 font-weight: 500;
 }
 
-P.kilos {font-size: 1.7rem;
+P.kilos {font-size: 1em;
 display: inline-block;
 color:orange;
 padding-top: 0;
 padding-bottom: 0;
 margin:0}
 
-P.kilos:hover{font-size: 2.5rem;}
+P.kilos:hover{font-size: 1.2em;}
 
 P.TEXTOMARCOSYCHAMBRANAS{font-size: 80%;
 MARGIN:0;}
